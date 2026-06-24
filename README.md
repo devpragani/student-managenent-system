@@ -13,3 +13,8 @@ This is a simple console-based application developed using C++.
 
 ## Purpose
 This project was built to understand basic programming concepts and logic building.
+
+## Future Improvements
+- Add update feature
+- Improve user interface
+- Store data using files
